@@ -1,0 +1,23 @@
+.status{
+    display: inline-block;
+    margin: 0px;
+    padding-top: 20px;
+}
+.players{
+    padding-top: 10px;
+    display: inline-block;
+    margin: 0px;
+}
+.version{
+    margin: 0px;
+    display: inline-block;
+    padding-top: 10px;
+}
+.img{
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 150px;
+    width: 100px;
+    border-radius: 20px;
+}
